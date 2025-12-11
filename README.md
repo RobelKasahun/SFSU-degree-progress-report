@@ -1,4 +1,3 @@
-# SFSU-degree-progress-report
 # 🎓 SFSU Degree Progress Tracker
 
 ## ✨ Features
