@@ -1,8 +1,6 @@
 # SFSU-degree-progress-report
 # 🎓 SFSU Degree Progress Tracker
 
-A modern, responsive web application designed for San Francisco State University students to manage their academic journey. Track degree requirements, calculate GPA projections, plan courses, and stay organized throughout your college career.
-
 ## ✨ Features
 
 ### 📊 Degree Progress Tracking
