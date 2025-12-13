@@ -74,3 +74,9 @@ cd sfsu-degree-progress
 
 ### Install dependencies
 2. npm install
+
+### Start the development server
+3. npm run dev
+
+### Open your browser and navigate to
+4. http://localhost:5173
