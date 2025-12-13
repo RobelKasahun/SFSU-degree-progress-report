@@ -68,12 +68,9 @@
 - npm or yarn
 
 ### Installation
-
 1. Clone the repository
-```bash
 git clone https://github.com/yourusername/sfsu-degree-progress.git
 cd sfsu-degree-progress
 
-2. Install dependencies
-```bash
+### Install dependencies
 npm install
