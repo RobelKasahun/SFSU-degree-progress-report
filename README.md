@@ -75,4 +75,5 @@ git clone https://github.com/yourusername/sfsu-degree-progress.git
 cd sfsu-degree-progress
 
 2. Install dependencies
+```bash
 npm install
