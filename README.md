@@ -69,7 +69,8 @@
 
 ### Installation
 1. Clone the repository
-git clone https://github.com/yourusername/sfsu-degree-progress.git ```bash
+git clone https://github.com/yourusername/sfsu-degree-progress.git
+
 cd sfsu-degree-progress
 
 ### Install dependencies
